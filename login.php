@@ -41,7 +41,7 @@ $connection = mysqli_connect('localhost','root','', 'loginapp');
 </head>
 <body>
 <div class="conatiner">
-    
+    <h1>Login</h1>
     <div class="col-sm-6">
         <form action="login.php" method="post">
             <div class="from-group">
